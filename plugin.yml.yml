@@ -1,0 +1,11 @@
+name: ErstesPlugin
+main: AutoSprint.ErstesPlugin
+version: 1.0
+api-version: 1.20
+description: Ein Minecraft-Plugin mit Auto-Sprint-Funktion.
+author: DeinName
+
+commands:
+  autosprint:
+    description: Schaltet Auto-Sprint ein oder aus.
+    usage: /autosprint
