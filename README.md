@@ -1,1 +1,1 @@
-Plugin that activates and deactivates AutoSprint on command "/autosprint".
+Plugin that welcomes the Player on join.
